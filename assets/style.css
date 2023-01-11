@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    margin: auto;
+    font-family: Garamond, serif;
+    font-size: 18px;
+  }
+  th {
+    margin: center;
+    text-align: center;
+    border: 1px solid black;
+  }
+td {
+  background-color: rgb(235, 207, 165);
+}
+.team {
+    transition: 0.25s linear;
+    }
+.team:hover {
+        color: #fff;
+        background: #f66d52;
+    }
