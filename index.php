@@ -1,6 +1,6 @@
 <?php
 include 'src/setGrid.php';
-include './data/getTeams.php';
+include 'data/getTeams.php';
 $teams = getTeams();
 $circle1 = circle1();
 $circle2 = circle2();
